@@ -1,0 +1,24 @@
+[
+    {
+        "tag": "msa",
+        "patterns": [
+          "What is the MSA document at Hanmak Technologies?",
+          "How does the Master Subscription Agreement (MSA) work?",
+          "Tell me about the terms and conditions in the MSA."
+        ],
+        "responses": [
+          "Our team shares the Master Subscription Agreement (MSA) with terms and conditions. Once signed, you share it back with us, indicating your agreement to the service terms."
+        ]
+      },
+      {
+        "tag": "order-confirmation",
+        "patterns": [
+          "How is the order confirmed at Hanmak Technologies?",
+          "What happens after signing the MSA?",
+          "Tell me about confirming the order."
+        ],
+        "responses": [
+          "Your team confirms the order by sending a Local Purchase Order (LPO) with the initial advance payment. Issuance of the LPO and payment indicates your commitment to proceed with implementation."
+        ]
+      },
+]
